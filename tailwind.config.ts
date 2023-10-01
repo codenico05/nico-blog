@@ -13,6 +13,14 @@ const config: Config = {
         'primary-dark': '#090D1F',
         'primary-light': '#FFFFFF',
       },
+      textColor: {
+        'light-text': '#c0c5d0',
+        'date-article': '#6941C6',
+      },
+      backgroundImage: {
+        'image-one': "url('/image.jpg')",
+        'image-two': "url('/image2.jpg')",
+      },
     },
   },
   plugins: [],
